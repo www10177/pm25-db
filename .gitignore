@@ -1,0 +1,4 @@
+raw db/
+reactions/
+parse_fb.py
+mergetodb.py
