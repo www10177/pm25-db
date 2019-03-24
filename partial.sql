@@ -1,0 +1,13 @@
+select * from posts where (crawl_from like "%這裏空氣很爛%" 
+or crawl_from like  "%自己的家鄉自己救%"
+or crawl_from like  "%氣象達人彭啟明%"
+or crawl_from like  "%莊秉潔%"
+or crawl_from like  "%南部反空污大聯盟%"
+or crawl_from like  "%自己的家鄉自己救%"
+or crawl_from like  "%爭好氣聯盟%"
+or crawl_from like  "%中台灣廢核無煤行動聯盟%"
+or crawl_from like  "%PM2.5 自救會：資訊應公開，拒絕髒空%"
+or crawl_from like  "%台南市空污防護自救會%"
+or crawl_from like  "%PM2.5 開放資料：社群協同分析平%"
+or crawl_from like  "%台灣健康空氣行動聯盟討論平%"
+)
